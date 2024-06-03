@@ -1,11 +1,11 @@
 ### Hi there 👋 , I'm Adrián Terciado
 
-Cuando tenía 12 años llegó a casa el primer PC, mi padre no tenía ni idea de informática y lo compró sin sistema operativo. Despues de unas horas sin entender nada y mirando una pantalla negra con un guión parpadeando... tuvimos que volver a la tienda.
+Cuando tenía 12 años llegó a casa el primer PC, no teníamos ni idea de informática y lo compramos sin sistema operativo. Después de unas horas tratando de arrancar una pantalla negra con un guion parpadeando... tuvimos que volver a la tienda.
 
-Y así, comprando revistas de informatica y de forma autodidacta, comenzó mi pasión por la tecnología! 
+Así empezó mi pasión por la tecnología, con revistas de informática y cacharreando de forma autodidacta.
 
-Estudié electrónica y trabajé en el sector durante más de 10 años mientras seguía cacharreando con mi PC en mi tiempo libre.
+Ello me hizo estudiar electrónica y trabajar en el sector durante más de 10 años mientras seguía estudiando en mi tiempo libre. 
  
-Una de mis mayores motivaciones es aprender, necesito tener siempre metas que conseguir y sentir que sigo creciendo.
+Porque una de mis mayores motivaciones es aprender, tener metas me hace sentir que sigo creciendo.
 
-Ahora acabo de terminar un bootcamp de programación web y me encuentro totamente inmerso en un mundo... ¡que me apasiona!
+Ahora acabo de terminar un Bootcamp de Programación Web Full-Stack y estoy inmerso en varios proyectos, ¿te pasas a verlos?
