@@ -9,3 +9,6 @@ Ello me hizo estudiar electrónica y trabajar en el sector durante más de 10 a�
 Me gusta descubrir y aprender cosas nuevas, por eso me encanta viajar y quizá por eso me encante el mundo de la tecnología. Aquí todo cambia constantemente, nunca se deja de aprender.
 
 Ahora acabo de terminar un Bootcamp de Programación Web Full-Stack y estoy inmerso en varios proyectos, ¿te interesa?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-terciado/)
+[![GitHub AdrianTerciado](https://img.shields.io/github/followers/AdrianTerciado?label=follow&style=social)](https://github.com/AdrianTerciado)
