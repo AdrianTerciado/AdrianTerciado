@@ -8,7 +8,7 @@ Ello me hizo estudiar electrónica y trabajar en el sector durante más de 10 a�
  
 Me gusta descubrir y aprender cosas nuevas, por eso me encanta viajar y quizá por eso me encante el mundo de la tecnología. Aquí todo cambia constantemente, nunca se deja de aprender.
 
-Ahora acabo de terminar un Bootcamp de Programación Web Full-Stack y estoy inmerso en varios proyectos, ¿te interesa?
+¿Quieres ver mis proyectos? ¡Adelante!
 
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
