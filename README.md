@@ -1,14 +1,14 @@
-### Hi there 👋 , I'm Adrián Terciado
+### Hola a todos 👋 , mi nombre es Adrián Terciado
 
-Cuando tenía 12 años llegó a casa el primer PC, no teníamos ni idea de informática y lo compramos sin sistema operativo. Después de unas horas tratando de arrancarlo... tuvimos que volver a la tienda.
+Desde pequeño, siempre he sido un chico curioso, especialmente en todo lo relacionado con la tecnología. Mi primer instinto con los juguetes era desmontarlos para descubrir cómo funcionaban.
 
-Así empezó mi pasión por la tecnología, con revistas de informática y cacharreando de forma autodidacta.
+A los 12 años, convencí a mi padre para que reemplazáramos nuestra vieja máquina de escribir por nuestro primer PC. Sin embargo, al llegar a casa, no conseguíamos hacerlo funcionar; lo único que aparecía en la pantalla era una pequeña línea parpadeando. De vuelta a la tienda, tuve mi primera clase de informática: "qué es un sistema operativo". Fue el inicio de una pasión.
 
-Ello me hizo estudiar electrónica y trabajar en el sector durante más de 10 años mientras seguía formándome por mi cuenta en mi tiempo libre. 
- 
-Me gusta descubrir y aprender cosas nuevas, por eso me encanta viajar y quizá por eso me encante el mundo de la tecnología. Aquí todo cambia constantemente, nunca se deja de aprender.
+A partir de ese momento, me sumergí en el mundo de la tecnología, comprando revistas de informática y aprendiendo de forma autodidacta. Al terminar la ESO, opté por el bachillerato tecnológico y posteriormente por un grado superior de electrónica, donde aprendí lenguajes como ensamblador y C para comprender las bases del funcionamiento de las máquinas. También desarrollé habilidades en programación de autómatas y robótica utilizando C++.
 
-¿Quieres ver mis proyectos? ¡Adelante!
+Con más de 13 años de experiencia en el sector de la electrónica de consumo, nunca he dejado de formarme. Inicié un grado superior de desarrollo de aplicaciones multiplataforma y completé un bootcamp de programación web full stack. La programación me apasiona porque siempre hay algo nuevo por descubrir, un reto que superar o una herramienta por dominar.
+
+Hace un tiempo decidí dar el salto definitivo: cambiar el hardware por el software. Este camino combina mi amor por la tecnología y mi deseo constante de aprender, y estoy emocionado por lo que el futuro me depara en este fascinante mundo del desarrollo de software.
 
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
